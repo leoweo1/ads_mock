@@ -1,20 +1,21 @@
 # Deliverables for ADS MidTerm Mock
 
-**Question 1:**
-**(a)** 
-In January 2017 - 2668 were published 
-In February 2017 - 2437 were published
-In March 2017 - 2709 were published
-In April 2017 - 2525 were published
-In May 2017 - 2703 were published
-In June 2017 - 2845 were published
-In July 2017 - 2754 were published
-In August 2017 - 2579 were published
-In September 2017 - 2388 were published
-In October 2017 - 2402 were published
-In November 2017 - 2500 were published
-In December 2017 - 2404 were published
+## Question 1 Results
 
+**2017 Monthly Review Counts:**
+- January: 2,668 reviews
+- February: 2,437 reviews
+- March: 2,709 reviews
+- April: 2,525 reviews
+- May: 2,703 reviews
+- June: 2,845 reviews
+- July: 2,754 reviews
+- August: 2,579 reviews
+- September: 2,388 reviews
+- October: 2,402 reviews
+- November: 2,500 reviews
+- December: 2,404 reviews
+- 
 **(b)** 
 ![2017 Monthly Reviews](./2017_monthly_reviews.png)
 
